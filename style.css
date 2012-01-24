@@ -173,6 +173,60 @@ footer {
 /* TODO: make styles for iPhone landscape view */
 @media only screen and (max-width: 480px) {
 	
+	#wrapper {
+		width: 390px;
+	}
+
+	article section {
+		width: 100%;
+	}
+
+	article aside {
+		width: 100%;
+	
+		
+		
+	}
+
+	article span strong {
+		display: block;
+		margin-bottom: 3px;
+	}
+
+	
 }
 
 /* TODO: make styles for iPhone portrait view (320px max width) */
+
+@media only screen and (max-width: 320px) {
+	
+	#wrapper {
+		width: 390px;
+	}
+
+	article section {
+		width: 100%;
+	}
+
+	article aside {
+		width: 100%;
+	
+		
+		
+	}
+
+	article span strong {
+		display: block;
+		margin-bottom: 3px;
+	}
+
+	
+}
+
+
+
+
+
+
+
+
